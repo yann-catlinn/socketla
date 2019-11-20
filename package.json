@@ -1,0 +1,28 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "Socket para aprender a usar observables con un chat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaravena/socket.git"
+  },
+  "keywords": [
+    "Socket",
+    "chat"
+  ],
+  "author": "Alejandra Aravena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaravena/socket/issues"
+  },
+  "homepage": "https://github.com/alaravena/socket#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
